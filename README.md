@@ -3,7 +3,7 @@ The dataset I'm using is a very famous marketing campaign dataset(Bank Marketing
 
 The classification methodologies I'm going to apply on my analysis are: logistic regression, decision tree, and support vector machine. Hopefully my model will predict whether a client will buy the product more accurately.This will evantually help improve the stategy for marketing campaign like what classes of clients we will target on, which marketing approach we will communicate with clients (email, cell, or home phone?), what timeline we will adopt (months/days of week), etc.. Since my target data is very imbalanced, so I will apply oversampling to my training model as well.
 
-Task list:
+Mirco task list:
 - Classification model performance metrics (connect with business)
 - Prune the tree
 - feature elemination with random forest?
